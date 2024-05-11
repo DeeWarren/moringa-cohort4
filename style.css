@@ -1,0 +1,37 @@
+.header .container{
+    display: flex;
+    background-color: rgb(255, 166, 0);
+}
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 1.5;
+    background-color: blanchedalmond;
+}
+    img{
+    max-width: 100%;
+    border-radius: 8px;
+}
+span{
+    font-weight: bold;
+    font-size: 20px;
+}
+.container{
+    margin: auto;
+    max-width: 800px;
+}
+.class.container{
+    display: flex;
+    gap: 3rem;
+}
+.skills{
+    padding: 40px;
+}
+.skills.container{
+    display: flex;
+    justify-content: space-between;
+}
+.skills h3{
+
+}
+
+
